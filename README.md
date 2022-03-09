@@ -1,4 +1,4 @@
-# eFisheryTest
+# Youtube Music Feedback
 
 ## Overview
 This repo just for me to write gherkin and platform feedback from QA perspective. The Case of this test is about Youtube Music Website.
