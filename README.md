@@ -1,16 +1,16 @@
 # eFisheryTest
 
 ## Overview
-This repo is for eFishery Interview Test. The Case of this test is about Youtube Music Website.
+This repo just for me to write gherkin and platform feedback from QA perspective. The Case of this test is about Youtube Music Website.
 
 ###File Detail
--Question Number 2 is the pdf file:
+- Platform Feedback
   - Youtube Music Platform Feedbacks.pdf 
 
-Question Number 3 is for the test case that using excel:
+- Test Case =
   - Test Cases.xlsx
 
-Question Number 4 is the gherkins file:
+- Gherkin File :
   - likedislike.feature
   - login.feature
   - playlistmanagement.feature
